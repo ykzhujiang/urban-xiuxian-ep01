@@ -1,0 +1,45 @@
+---
+style: realistic
+art_style: "cinematic noir, dark moody lighting, high contrast, photorealistic"
+setting: "中国·当代·都市办公室"
+---
+
+`ART_STYLE: cinematic realism, dark moody office lighting, cool blue screen glow contrasting with warm subtle background shadows, magical luminescent bioluminescent blue effects, high contrast, shallow depth of field, 8k resolution, photorealistic`
+
+# PART 1: ASSET DESCRIPTIONS
+
+## Characters
+- **[陈默]**: 28岁男性，身高175cm偏瘦体型，苍白缺乏血色的皮肤，瓜子脸，黑眼圈极重且细长双眼疲惫下垂，黑色凌乱齐耳中长碎发，穿着深蓝格子衬衫内搭黑色圆领T恤并佩戴黑框眼镜。
+
+## Scenes
+- **[深夜办公室]**: 昏暗的现代IT公司办公区，周围工位完全漆黑。中央唯一亮着冷蓝光的显示器照亮凌乱桌面，桌上散落着文件。背景深处有服务器机柜的微弱蓝灯闪烁，整体光影氛围压抑且充满冷色调。
+
+# PART 2: STORYBOARD
+
+## Segment 01 | ≤8s
+**Location**: [深夜办公室]
+**Cast**: [陈默]
+**图片引用**: 图片1=[深夜办公室] 图片2=[陈默]
+
+**Physical State:**
+- **[陈默]**: 画面中央，坐姿，双手放在电脑键盘上，低头视线面向正前方屏幕
+
+[Part 1] [陈默]眼袋沉重双眼半睁，双手无力地机械敲击键盘，头部微微晃动。
+[Part 2] [陈默]满脸疲惫，叹着气低声说：“七十二小时了，这破代码还是报错。”
+[Part 3] [陈默]双手停止打字，视线迅速下移，死死盯住右侧突然轻微震动的咖啡杯。
+
+运镜：近景，微侧俯角，固定机位，正常速度
+
+## Segment 02 | ≤7s
+**Location**: [深夜办公室]
+**Cast**: [陈默]
+**图片引用**: 图片1=[深夜办公室] 图片2=[陈默]
+
+**Physical State:**
+- **[陈默]**: 画面中央，坐姿，双手离开键盘放在大腿上，低头视线面向右侧桌面
+
+[Part 1] [陈默]瞳孔放大满脸震惊，死死盯着右侧缓慢离开桌面悬浮半空的咖啡杯。
+[Part 2] [陈默]缓慢伸出右手食指靠近杯子，指尖骤然亮起一团流动的淡蓝色光晕。
+[Part 3] [陈默]紧盯着发光的右手，倒吸凉气说：“我这是加班加出超能力了？”
+
+运镜：特写，平视角度，缓慢推镜头，正常速度
