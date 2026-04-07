@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-04-07T20:39:08.837807+00:00",
+  "verdict": "PASS",
+  "total_pairs": 1,
+  "failures": [
+    {
+      "position": "Seg01 → Seg02",
+      "type": "emotion_transition",
+      "severity": "soft",
+      "description": "陈默从段落A结尾的疲惫状态直接跳到段落B开头的瞳孔放大满脸震惊，虽然有咖啡杯震动作为铺垫，但情绪转变较为突然，可在A末尾或B开头增加一个短暂的困惑/怀疑过渡。",
+      "fix_applied": null
+    }
+  ],
+  "cross_episode_check": null,
+  "auto_fix_rounds": 0
+}
