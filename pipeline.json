@@ -1,0 +1,33 @@
+{
+  "project": "urban-xiuxian-ep01",
+  "created_at": "2026-04-07T20:37:41.472473+00:00",
+  "github_repo": "ykzhujiang/urban-xiuxian-ep01",
+  "config": {
+    "theme": "都市灵气复苏：28岁程序员陈默连续加班72小时，深夜独自对着代码，突然发现桌上物品自己悬浮，指尖流动淡蓝色光芒——加班加到灵气复苏了？",
+    "genre": "urban-fantasy",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 1,
+    "setting": "中国·当代·都市办公室",
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
